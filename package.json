@@ -1,0 +1,23 @@
+{
+  "name": "nightwatchpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^0.6.7"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-nightwatch": "^0.4.8",
+    "nightwatch": "^0.6.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
